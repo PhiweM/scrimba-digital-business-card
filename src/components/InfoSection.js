@@ -10,8 +10,8 @@ function InfoSection() {
                 <h4 className='profile-position'>Frontend Developer</h4>
                 <h5 className='profile-website'>phiwemhlope.com</h5>
                 <div className='profile-btns'>
-                    <button type='button'>Email</button>
-                    <button type='button'>linkedIn</button>
+                    <button type='button'><i class="fa-solid fa-envelope"></i>Email</button>
+                    <button type='button'><i class="fa-brands fa-linkedin"></i>linkedIn</button>
                 </div>
             </div>
         </div>
