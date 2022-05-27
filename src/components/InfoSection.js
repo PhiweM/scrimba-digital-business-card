@@ -4,7 +4,7 @@ import profileImage from '../images/profile.jpg'
 function InfoSection() {
     return(
         <div className='header'>
-            <img src={profileImage} className='profile-image' width="210px" />
+            <img src={profileImage} className='profile-img'  />
             <div className='profile-info'>
                 <h1 className='profile-name'>Phiwe Mhlope</h1>
                 <h4 className='profile-position'>Frontend Developer</h4>
